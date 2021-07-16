@@ -1,0 +1,211 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #ccc;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    overflow: hidden;
+}
+.house{
+    padding: 0 30px;
+    position: relative;
+    width:65%;
+    height: 450px;
+    background: #fff;
+
+}
+.roof{
+    padding-top: -120px;
+    width: 600px;
+    height: 120px;
+    background: red;
+}
+.main{
+    position: absolute;
+    margin-top: 150px;
+    width: 350px;
+    height: 300px;
+    background: #bbb;
+   border-bottom:6px solid green;
+
+}
+.front{
+    position: absolute;
+ padding-left: 20PX;
+     margin-top: 20px;
+      width: 320px;
+      height: 280px;
+     background: cornflowerblue;
+}
+.door{
+    position: absolute;
+    margin-top: 130px;
+    margin-left: 15px;
+    width: 100px;
+    height: 150px;
+    border: 8px solid brown;
+    background:rgb(216, 203, 101);
+}
+.windows{
+     margin-top: 130px;
+     margin-left: 150px;
+    position: absolute;
+    border: 6px solid black;
+    width: 50px;
+    height: 100px;
+    background: brown;
+     /* background-image:linear-gradient(to right, transparent 10%, transparent 90%, #333  90%),
+     linear-gradient(to bottom, transparent 10%, #6d6d7d 10%, #6d6d7d 90%); */
+
+}
+.air{
+    margin-top: 80px;
+    margin-left: 15px;
+    position: absolute;
+      width: 190px;
+      height: 20px;
+     border: 6px solid brown;
+    /* background: brown; */
+
+}
+.side{
+    margin-left: 270px;
+    height: 280px;
+    width: 50px;
+    background: rgb(153, 151, 151);
+}
+/* main2 */
+
+.main2 {
+    /* margin-top: -0px; */
+    margin-left: 340px;
+    position: absolute;
+    /* margin-top: 150px; */
+    width: 350px;
+    height: 300px;
+    background: #bbb;
+    border-bottom: 6px solid green;
+
+}
+
+.front2 {
+    position: absolute;
+    padding-left: 20PX;
+    margin-top: 20px;
+    width: 320px;
+    height: 280px;
+    background: cornflowerblue;
+}
+
+.door2 {
+    position: absolute;
+    margin-top: 130px;
+    margin-left: 15px;
+    width: 100px;
+    height: 150px;
+    border: 8px solid brown;
+    background: rgb(216, 203, 101);
+}
+
+.windows2 {
+    margin-top: 130px;
+    margin-left: 150px;
+    position: absolute;
+    border: 6px solid black;
+    width: 50px;
+    height: 100px;
+    background: brown;
+    /* background-image:linear-gradient(to right, transparent 10%, transparent 90%, #333  90%),
+     linear-gradient(to bottom, transparent 10%, #6d6d7d 10%, #6d6d7d 90%); */
+
+}
+
+.air2 {
+    margin-top: 80px;
+    margin-left: 15px;
+    position: absolute;
+    width: 190px;
+    height: 20px;
+    border: 6px solid brown;
+    /* background: brown; */
+
+}
+
+.side2 {
+    margin-left: 270px;
+    height: 280px;
+    width: 50px;
+    background: rgb(153, 151, 151);
+}
+
+
+
+/* main2 */
+
+
+.main3 {
+    /* margin-top: -0px; */
+    margin-left: 680px;
+    position: absolute;
+    /* margin-top: 150px; */
+    width: 350px;
+    height: 300px;
+    background: #bbb;
+    border-bottom: 6px solid green;
+
+}
+
+.front3 {
+    position: absolute;
+    padding-left: 20PX;
+    margin-top: 20px;
+    width: 320px;
+    height: 280px;
+    background: cornflowerblue;
+}
+
+.door3 {
+    position: absolute;
+    margin-top: 130px;
+    margin-left: 15px;
+    width: 100px;
+    height: 150px;
+    border: 8px solid brown;
+    background: rgb(216, 203, 101);
+}
+
+.windows3 {
+    margin-top: 130px;
+    margin-left: 150px;
+    position: absolute;
+    border: 6px solid black;
+    width: 50px;
+    height: 100px;
+    background: brown;
+    /* background-image:linear-gradient(to right, transparent 10%, transparent 90%, #333  90%),
+     linear-gradient(to bottom, transparent 10%, #6d6d7d 10%, #6d6d7d 90%); */
+
+}
+
+.air3 {
+    margin-top: 80px;
+    margin-left: 15px;
+    position: absolute;
+    width: 190px;
+    height: 20px;
+    border: 6px solid brown;
+    /* background: brown; */
+
+}
+
+.side3 {
+    margin-left: 270px;
+    height: 280px;
+    width: 50px;
+    background: rgb(153, 151, 151);
+}
